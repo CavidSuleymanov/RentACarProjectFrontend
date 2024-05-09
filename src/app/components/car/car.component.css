@@ -1,0 +1,22 @@
+::ng-deep .car-wrapper{
+    border: 0.01rem solid rgba(0, 0, 0, 0.096);
+    border-radius: 5px;
+    padding: 7px;
+    margin-bottom: 7px;
+    position: relative;
+}
+
+::ng-deep .price{
+    position: absolute;
+    left: 255px;
+    top:50px;
+    padding: 5px 8px;
+    border-radius: 15px;
+    font-size: 14px;
+}
+
+.filters{
+    background: rgb(241, 241, 241);
+    border:1px dotted rgb(184, 184, 184);
+    border-radius: 7px;
+}
